@@ -1,4 +1,4 @@
-# bldc-ffb-joystick-base
+# VPForceKit-ffb-joystick-base
 This project contains CAD files necessary for the mechanical assembly of a base of the VPForce kit (2x57BLF03 + USB kit).
 It is currently only a prototype that I will develop further for my own FFB base.
 
